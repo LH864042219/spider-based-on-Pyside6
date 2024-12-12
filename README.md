@@ -2,7 +2,8 @@ python版本为3.12.0
 
 第三方库均在requirements.txt中表明，运行前请自行pip
 
-这个爬虫仅可以用于获取(arxiv)[https://arxiv.org/]网站的search界面和list界面，输入时请输入正确的url
+这个爬虫仅可以用于获取(arxiv)[https://arxiv.org/]
+网站的search界面和list界面，输入时请输入正确的url
 
 例：https://arxiv.org/list/astro-ph/new
 
